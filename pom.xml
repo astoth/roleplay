@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hu.nye.progkor</groupId>
-	<artifactId>roleplay</artifactId>
+	<artifactId>rp</artifactId>
 	<version>0.0.1</version>
 	<name>roleplay</name>
 	<description>Catalog application for RolePlays.</description>
