@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hu.nye.progkor</groupId>
-	<artifactId>roleplay</artifactId>
+	<artifactId>rp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>roleplay</name>
 	<description>Catalog application for RolePlays.</description>
@@ -157,7 +157,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/astoth/rp</url>
+            <url>https://maven.pkg.github.com/astoth/roleplay</url>
         </repository>
     </distributionManagement>
 
