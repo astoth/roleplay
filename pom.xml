@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>hu.nye.progkor</groupId>
 	<artifactId>rp</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>roleplay</name>
 	<description>Catalog application for RolePlays.</description>
 	<properties>
